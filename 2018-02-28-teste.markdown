@@ -1,6 +1,6 @@
 ---
 title: Imóveis DEFERRARI 
-permalink: /teste/teste.html
+permalink: /more/sites-parceiros
 ---
 
 teste
